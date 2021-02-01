@@ -1,4 +1,4 @@
-# Webpack-three=template
+# Webpack-three-template
 > Boilerplate code for my three.js projects.
 
 ![node-current](https://img.shields.io/node/v/webpack?style=flat-square)
